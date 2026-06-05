@@ -1,0 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Space+Grotesk:300,regular,500,600,700);
+* {
+  font-family: "space grotesk";
+  box-sizing: border-box;
+  text-decoration: none;
+  outline: none;
+}
